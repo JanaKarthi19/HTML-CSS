@@ -1,0 +1,54 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+nav{
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding: 20px;
+}
+
+li,ul{
+	padding: 2px;
+	display: inline-block;
+}
+
+li:hover{
+	color: white;
+}
+
+li{
+	color: grey;
+	cursor: pointer;
+}
+
+.box{
+	display: inline-block;
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+	width: 220px;
+	text-align: center;
+}
+
+.Menu{
+	margin-top: 10px;
+	text-align: center;
+}
+
+button{
+	color: white;
+	background-color: black;
+	cursor: pointer;
+}
+
+
+.contact{
+	margin-top: 20px;
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding: 10px;
+}
